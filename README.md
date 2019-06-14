@@ -1,2 +1,5 @@
-# productionelements
-Artifacts of Production: Guide to Managing Film Out-Takes, Trims, and Other Elements
+# Artifacts of Film Production 
+
+...A crowd-sourced guide to Managing Film Out-Takes, Trims, and Other Elements
+
+Content pending : )
