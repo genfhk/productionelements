@@ -1,3 +1,8 @@
+# Introduction
+This site is a work-in-progress. It aims to provide a guide to other archivists dealing with large (or small) collections of film elements created during the production process. These elements pose unique challenges to archivists and collection managers, and we hope that through a combined effort, we can present a range of approaches that work for a variety of institutions.
+
+Below is an outline that will help us organize crowd-sourced content and notes. Stay tuned for more content to come following the upcoming Association of Moving Image Archvists conference in Novemeber 2019!
+
 ## Challenges & Approaches
   * Selection & Appraisal
     * Research value of content
