@@ -33,6 +33,8 @@
 # Resources
 Links to existing guides or other resources
 
+[Arranging AV production materials](https://www.aaa.si.edu/documentation/processing-collections-with-audiovisual-material-chapter-4-arrangement-guidelines#_Toc8659551), Smithsonian Archives of American Art, [Guidelines for Processing Collections with Audiovisual Material](https://www.aaa.si.edu/documentation/guidelines-for-processing-collections-with-audiovisual-material) Chapter 4.4
+
 [AMIM Glossary of moving image terminology](http://www.loc.gov/catdir/cpso/app-glos.html)
 
 [“The Sweetest Sound,”](http://si-siris.blogspot.com/2013/03/the-sweetest-sound.html) Smithsonian Collections Blog post on the Nagra sync sound system for filmmakers by Daisy Njoku
